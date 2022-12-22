@@ -63,16 +63,17 @@
 **Application and Data**
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105645798-cc355380-5e7a-11eb-9905-d28dec70bf80.png" alt="Microsoft-Azure"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/111893927-4a2e5a80-89e5-11eb-8457-ad7a510f9e17.png" alt="Google-Cloud"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/112564136-75d08c80-8db9-11eb-9716-12cc4db3678e.png" alt="Kubernetes"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646482-fc7ef100-5e7e-11eb-94d7-d43de3e6aaae.png" alt="AWS"/></code>
 
 
 <br/>
+
+## Future Learning
+
+
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/111893927-4a2e5a80-89e5-11eb-8457-ad7a510f9e17.png" alt="Google-Cloud"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/112564136-75d08c80-8db9-11eb-9716-12cc4db3678e.png" alt="Kubernetes"/></code>
+
 <br/>
-
-
-
-
 
