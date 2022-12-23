@@ -43,7 +43,11 @@
     </tr>
   </table>
   </center>
+<br />
 
+![Snake animation](https://github.com/ravindra467/ravindra467/blob/output/github-contribution-grid-snake.svg)
+
+<br />
 
 
 ## Skills & Technologies
