@@ -1,7 +1,8 @@
-![logo](https://github.com/ravindra467/ravindra467/blob/main/10e44103d470ddb325fa3e2859c943ab-3308387249.jpeg)
+![logo](https://github.com/ravindra467/ravindra467/blob/main/banner-1.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindra467&label=Profile%20views&color=0e75b6&style=flat" alt="ravindra467" /> </p>
 
 <h2>Hey 👋, I'm Ravindra</h2>
-<p>I'm a passionate software developer. I am working on some projects and learning a couple new dishes.</p>
+<p>I'm currently in my final year as an undergraduate at IIT Kharagpur. I am a passionate software developer and am always seeking out new opportunities to learn and grow. I am currently working on some side projects and learning a couple of new dishes.</p>
 
 <br />
 
@@ -13,7 +14,7 @@
 <li>🧐 Currently learning about <strong>AWS</strong> and <strong>System Design</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindra467">Github</a>.</li>
 <li>📙 Check out my <a>resume</a>.</li>
-<li>📫 How to reach me ravindrapatel0467@gmail.com</li>
+<li>📫 How to reach me <a href="mailto:ravindarapatel0467@gmail.com">ravindrapatel0467@gmail.com</a></li>
 </ul>
 
 <br />
