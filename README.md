@@ -32,8 +32,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="420px" align="left" src="https://github-readme-stats-ravindra467.vercel.app/api/top-langs/?username=ravindra467&langs_count=09&layout=compact&theme=onedark" alt="ravindra467"/></td>
-      <td><img width="494px" align="left" src="https://github-readme-stats-ravindra467.vercel.app/api?username=ravindra467&theme=onedark&show_icons=true&locale=en" alt="ravindra467" /></td>
+      <td><img width="420px" align="left" src="https://github-readme-stats-black-two.vercel.app/api/top-langs/?username=ravindra467&langs_count=09&layout=compact&theme=onedark" alt="ravindra467"/></td>
+      <td><img width="494px" align="left" src="https://github-readme-stats-black-two.vercel.app/api?username=ravindra467&theme=onedark&show_icons=true&locale=en" alt="ravindra467" /></td>
   </tr>
 </table>
 </center>
