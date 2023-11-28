@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindra467&label=Profile%20views&color=0e75b6&style=flat" alt="ravindra467" /> </p>
 
 <h2>Hey 👋, I'm Ravindra</h2>
-<p>I'm currently in my final year as an undergraduate at IIT Kharagpur. I am a passionate software developer and am always seeking out new opportunities to learn and grow. I am currently working on some side projects and learning a couple of new dishes.</p>
+<p>I'm currently working as a Full Stack Developer. I am a passionate software developer and am always seeking out new opportunities to learn and grow. I am currently working on some side projects and learning a couple of new dishes.</p>
 
 <br />
 
@@ -10,8 +10,8 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <strong>Pathfinding Visualiser</strong>.</li>
-<li>🧐 Currently learning about <strong>AWS</strong> and <strong>System Design</strong>.</li>
+<!-- <li>🔭 I’m currently working on <strong></strong>.</li> -->
+<li>🧐 Currently learning about <strong>AWS</strong>, <strong>Azure</strong> and <strong>System Design</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/ravindra467">Github</a>.</li>
 <li>📙 Check out my <a>resume</a>.</li>
 <li>📫 How to reach me <a href="mailto:ravindarapatel0467@gmail.com">ravindrapatel0467@gmail.com</a></li>
@@ -66,6 +66,8 @@
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646086-a315c280-5e7c-11eb-81d9-bb0519947fb8.png" alt="Github"/></code>
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/105646090-a6a94980-5e7c-11eb-8392-e12a69266a0c.png" alt="Git"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
+<code><img height="32" src="https://user-images.githubusercontent.com/21012174/112564136-75d08c80-8db9-11eb-9716-12cc4db3678e.png" alt="Kubernetes"/></code>
 
 **Business Tools**
 
@@ -89,8 +91,6 @@
 
 
 <code><img height="32" src="https://user-images.githubusercontent.com/21012174/111893927-4a2e5a80-89e5-11eb-8457-ad7a510f9e17.png" alt="Google-Cloud"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/105656444-fac62500-5ea0-11eb-88ff-1699e3e5026a.png" alt="Docker"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/21012174/112564136-75d08c80-8db9-11eb-9716-12cc4db3678e.png" alt="Kubernetes"/></code>
 
 <br/>
 
